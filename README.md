@@ -1,22 +1,5 @@
 # amazonparser
 
-
-[
-  {
-    "url": "https://www.amazon.co.uk/gp/product/1509836071",
-    "meta": {
-        "title": "The Fat-Loss Plan: 100 Quick and Easy Recipes with Workouts",
-        "price": "8.49",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/51kB2nKZ47L._SX382_BO1,204,203,200_.jpg",
-    }
-  },
-  // ...
-]
-
-Сервис необходимо завернуть в Docker
-[Не обязательно] Плюсом будет реализация асинхронной загрузки, когда по некоторому requestID мы можем получить результат
-
-
 ## POST /api/sendurls
 
 **http request**
